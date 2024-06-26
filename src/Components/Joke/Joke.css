@@ -1,0 +1,33 @@
+.joke-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: cadetblue; */
+    /* height: 60vh; */
+}
+.container{
+border: 4px solid black;
+border-radius: 15px;
+width: 50%;
+height: 50%;
+margin: 10px;
+font-size: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+gap: 30px;
+padding: 20px 20px;
+background-color:cornflowerblue;
+}
+#fetchJoke{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+#fetchJoke:hover{
+    background-color: black;
+    color: white;
+    border: 2px solid whitesmoke;
+}

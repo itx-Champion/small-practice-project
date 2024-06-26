@@ -1,0 +1,19 @@
+.heading{
+    padding-top:20px ;
+    font-weight: 700;
+    font-size: 40px;
+}
+.joke-weather{
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 10px;
+    gap: 8px;
+    /* height: 100vh; */
+}
+.shake-speech{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}

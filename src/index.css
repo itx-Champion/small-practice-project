@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.project-name{
+  font-size: 20px;
+  font-weight: 600px;
+  text-decoration: line-through;
+  margin-bottom: 10px;
+}

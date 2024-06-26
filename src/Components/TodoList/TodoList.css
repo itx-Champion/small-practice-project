@@ -1,0 +1,46 @@
+.merge-body{
+    /* background-color:aquamarine; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.todo-section{
+    /* background-color: blanchedalmond; */
+}
+.todo-body{
+    line-height: 3rem;
+    padding: 15px;
+    background-color:white;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.todo-list .main-todo li{
+font-size: 18px;
+font-weight: 500;
+/* color: white; */
+}
+.btn{
+    margin-left: 8px;
+}
+input{
+    border-radius: 10px;
+    height: 30px;
+    padding: 10px;
+}
+/* keyboard event */
+.keyboard-body{
+    line-height: 3rem;
+    padding: 20px;
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 15px;
+}
+.output{
+    font-size: 18px;
+font-weight: 500;
+}
